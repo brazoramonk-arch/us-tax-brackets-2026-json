@@ -23,3 +23,12 @@ Public domain reference data. Subject to IRS publication terms.
 ## Source
 
 [IRS — Revenue Procedure 2024-80](https://www.irs.gov/pub/irs-drop/rp-24-80.pdf)
+
+## Try the Calculators
+
+Free, no-signup tax tools that use the data sources documented here:
+
+- [Income Tax Calculator](https://levyio.com/income-tax-calculator/)
+- [Tax Bracket Calculator](https://levyio.com/tax-bracket-calculator/)
+- [Capital Gains Tax Calculator](https://levyio.com/capital-gains-tax/)
+
